@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.para p:nth-child(2n+1){
+.para .p-1:nth-child(2n+1){
 	font-size: 20px;
 	color: #00f;
    background-color: #eee;
