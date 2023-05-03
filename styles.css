@@ -1,6 +1,12 @@
 /*  your css code here. If applicable */
-p.p-1:nth-child(2n+1){
-/* 	font-size: 20px; */
+/* p.p-1:nth-child(2n+1){
+/* 	font-size: 20px;
 	color: rgb(0, 0, 255);
    background-color: #eee;
+ } */
+
+.selector{
+	color:#00f;
+	font-size: 25px;
+	background-color:#eee;
 }
